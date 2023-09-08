@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/mountain.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "image of a mountain";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a third-year undergraduate student pursuing my Bachelor's degree in Computer Science and Engineering at G.Pullaiah College of Engineering and Technology skilled at analyzing and problem solving. Parallel to my technical studies, I have a deep-rooted interest in UI/UX design, which I actively explore and engage in during my free time..";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web developer",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Interface design",
+  "Figma",
+  "Canva",
+  "Content Creation",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Welcome to my portfolio site";
 
 const About = () => {
   return (
